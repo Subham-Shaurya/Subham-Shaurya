@@ -4,13 +4,7 @@
 
 
 - <h2> 👋 Hi there, </h2>
-- <h1>I'm Subham Raj</h1> 
-  <hr>
-  <div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-</div>
-- I'm Full Stack Developer
-- 🌱 I’m currently persueing B.Tech in Computer Science
+- <p>I'm Subham Raj. I'm a Web Developer. A Tech-Enthusiast, love creating new things. I’m currently persueing B.Tech in Computer Science at LPU.</p>
 
 <!---
 Subham-Shaurya/Subham-Shaurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
