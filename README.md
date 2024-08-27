@@ -9,9 +9,9 @@ I'm Subham Raj. I'm a Web Developer. A Tech-Enthusiast, love creating new things
 
 ## Things I am passionate about
 
-- Android :robot:
-- iOS Development :octocat:
-- Python
+- Data Science :robot:
+- Full Stack Development :octocat:
+- Java Programming
 - Seek to learn new skills
 
 ## Get in touch :coffee:
